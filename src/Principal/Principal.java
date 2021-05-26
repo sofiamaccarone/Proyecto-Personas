@@ -1,6 +1,6 @@
-package Principal;
+package principal;
 
-import Persona.Persona;
+import persona.Persona;
 
 public class Principal {
 	
